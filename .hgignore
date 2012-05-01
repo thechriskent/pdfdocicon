@@ -1,0 +1,5 @@
+syntax: glob
+PDFdocicon/bin/*
+PDFdocicon/obj/*
+PDFdocicon/pkg/*
+PDFdocicon/pkgobj/*
