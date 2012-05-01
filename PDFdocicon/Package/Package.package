@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="31e63f3e-a3bd-4e74-b523-49ef3c0a7a72" solutionId="31e63f3e-a3bd-4e74-b523-49ef3c0a7a72" resetWebServer="true" name="WireBear.PDFdocicon" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ba72bffd-d5a7-4c9a-8df8-30e359ef75bb" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="0c714528-18f4-4c9e-ba0a-6b71069ee3e5" />
+  </projectItems>
+</package>
